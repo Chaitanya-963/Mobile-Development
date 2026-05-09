@@ -1,6 +1,6 @@
-import js from '@eslint/js'
-import globals from 'globals'
-import reactHooks from 'eslint-plugin-react-hooks'
+import js from '../01_Lecture - react-refresher-1 [02-05-2026]/node_modules/@eslint/js/types'
+import globals from '../01_Lecture - react-refresher-1 [02-05-2026]/node_modules/globals'
+import reactHooks from '../01_Lecture - react-refresher-1 [02-05-2026]/node_modules/eslint-plugin-react-hooks'
 import reactRefresh from 'eslint-plugin-react-refresh'
 import { defineConfig, globalIgnores } from 'eslint/config'
 
