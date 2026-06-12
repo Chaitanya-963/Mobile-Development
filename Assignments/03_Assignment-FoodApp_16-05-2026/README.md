@@ -104,13 +104,16 @@ npx expo start
 - Search Restaurants
 - Deep Linking
 
-## Screenshots
 
-### Demo Video
+| 📺 **Watch the Food App Demo** |
+| :---: |
+| <a href="https://www.linkedin.com/posts/chaitanya-mehetre_reactnative-expo-typescript-activity-7471211405552115712-NAXq"><img src="./assets/Demo/AppIcon.png" width="100" alt="Watch on LinkedIn"></a> |
+| **[Click to watch the full video on LinkedIn 🚀](https://www.linkedin.com/posts/chaitanya-mehetre_reactnative-expo-typescript-activity-7471211405552115712-NAXq)** |
 
-![Project Demo](./assets/Demo/Demo_video.gif)
 
-### App Screenshots
+
+
+## App Screenshots
 
 <table>
   <tr>
