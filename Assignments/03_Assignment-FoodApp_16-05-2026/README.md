@@ -108,7 +108,7 @@ npx expo start
 
 ### Demo Video
 
-<video src="./assets/Demo/Demo_video.mp4" width="60%" controls></video>
+![Project Demo](./assets/Demo/Demo_video.gif)
 
 ### App Screenshots
 
